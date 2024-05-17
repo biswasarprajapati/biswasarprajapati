@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Biswasar Prajapati</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="center">
-  I am a passionate developer with a strong background in <b>full stack web development</b>. With 1 years of experience in the industry, I have developed a deep understanding of <b>React, Python, Flask, Java, Node, Data structure and algorithm.</B>.
-</P>
+  I am a passionate developer with a strong background in <b>full stack web development
 <p align="center">
 My GitHub profile is a reflection of my commitment to open-source projects and collaboration within the developer community. Here, you will find a variety of repositories showcasing my projects and contributions to other open-source projects.
 I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways in which I do so. I believe that open-source is the future of software development and I am excited to be a part of this community.
@@ -16,12 +15,12 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 
 
 - 🌱 I’m currently learning **Express.js, MongoDB**
-- 👨‍💻 All of my projects are available at [https://github.com/Pratik-Shrivastava](https://github.com/Pratik-Shrivastava)
-- 💬 Ask me about **Java, Data Structure & Algorithm, Flask, Node and Tensorflow**
-- 📫 How to reach me **pratikkumar441@gmail.com**
-- 📄 Connect with me [https://www.linkedin.com/in/pratik-shrivastava1/](https://www.linkedin.com/in/pratik-shrivastava1/)
+- 👨‍💻 All of my projects are available at [https://github.com/biswasarprajapati](https://github.com/biswasarprajapati)
+- 💬 Ask me about **Java, Data Structure & Algorithm, Node and React**
+- 📫 How to reach me **biswasarprajapati@gmail.com**
+- 📄 Connect with me [https://www.linkedin.com/in/biswasar-prajapati-284833243/](https://www.linkedin.com/in/biswasar-prajapati-284833243/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pratik-shrivastava&show_icons=true&locale=en&theme=transparent" alt="pratik-shrivastava" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=biswasarprajapati&show_icons=true&locale=en&theme=transparent" alt="biswasar-prajapati" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-shrivastava&show_icons=true&locale=en&layout=compact&theme=transparent" alt="pratik-shrivastava" /></p>
